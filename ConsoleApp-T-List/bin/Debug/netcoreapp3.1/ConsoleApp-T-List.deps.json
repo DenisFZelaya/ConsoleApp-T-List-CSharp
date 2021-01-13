@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp-T-List/1.0.0": {
+        "runtime": {
+          "ConsoleApp-T-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp-T-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

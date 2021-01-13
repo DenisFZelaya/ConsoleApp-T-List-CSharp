@@ -1,0 +1,13 @@
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.exe
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.deps.json
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.runtimeconfig.json
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.dll
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\bin\Debug\netcoreapp3.1\ConsoleApp-T-List.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.dll
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-T-List\ConsoleApp-T-List\obj\Debug\netcoreapp3.1\ConsoleApp-T-List.genruntimeconfig.cache
